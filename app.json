@@ -1,14 +1,14 @@
 {
       "name": "BAN ALL BOT",
       "description": "advance banall bot",
-      "logo": "",
+      "logo": "https://envs.sh/Ynn.jpg",
       "keywords": [
          "ban all bot",
          "bot",
          "Group",
          "Telegram"         
       ],   
-   "repository": "https://github.com/WCGKING/BRANDED-ALLBAN",
+   "repository": "https://github.com/SIDHIMUSIC/SidhiALLBAN",
    "stack": "heroku-20",
    "addons": [
       {
@@ -27,37 +27,37 @@
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "28696702"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "c13657baec6d4122ba90a16bd0900e60"
       },     
       "BOT_ID": {
          "description": "your bot id",
          "required": true,
-         "value": ""
+         "value": "7607508416"
       },  
       "BOT_USERNAME": {
          "description": "your bot username without @",
          "required": true,
-         "value": ""
+         "value": "SIDHI_BANBOT"
       },  
        "BOT_NAME": {
          "description": "Your bot's name",
          "required": true,
-         "value": ""
+         "value": "SIDHI_BANBOT"
       },      
       "SUDO": {
          "description": "list of Auth user Id who can command the bot ",
          "required": true,
-         "value": ""
+         "value": "7129262488"
       }, 
       "START_IMG": {
          "description": "give the telegraph link of your network logo.",
          "required": true,
-         "value": ""
+         "value": "https://envs.sh/Ynn.jpg"
       },     
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
